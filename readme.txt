@@ -1,3 +1,3 @@
 in windows' powershell or cmd
 
-like "python namanana.py vedio.mp4" 
+use it like "python namanana.py vedio.mp4" 
